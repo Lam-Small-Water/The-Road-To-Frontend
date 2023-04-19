@@ -1,10 +1,13 @@
 # Chapter: An introduction
 
 ## For The First Coding & Code Structure
+<span style='color:black'>
+
 ### **We can use a `<script>` tag to add JavaScript code to a page.**
 ### **The `type` and language `attributes` are not required.**
 ### **A script in an exteranl file can be inserted with `<script src='path/to/script.js'></script>`.**
 
+</span>
 
 # Chapter: JavaScript Fundamentals
 ## Variables
@@ -46,3 +49,4 @@
 > **Returns a string with the name of the type, like `string`.**
 
 > **For null returns 'object' -this is an error in the language, it's not actually an object.**
+
