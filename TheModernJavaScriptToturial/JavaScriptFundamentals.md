@@ -1,26 +1,27 @@
-# Chapter: An introduction
-
-## For The First Coding & Code Structure
-<span style='color:black'>
-
-### **We can use a `<script>` tag to add JavaScript code to a page.**
-### **The `type` and language `attributes` are not required.**
-### **A script in an exteranl file can be inserted with `<script src='path/to/script.js'></script>`.**
-
-</span>
 
 # Chapter: JavaScript Fundamentals
 ## Variables
+
+
 ### **We can declare variables to store data by using the `var`, `let`, `const` keywords.**
+
+<span style='color:black'>
+
 > **`let` -is a modern variable declaration.**
 
 > **`var` -is an old-school variable declaration.**
 
 > **`const` -is like let, but the value of the variable can't be changed.**
+
+</span>
+
 ### **Variables should be named in a way that allows us to easily understand what's inside them.**
+
 
 ## Data Types
 ### **There are 8 basic data types in JavaScript.**
+
+<span style='color:black'>
 
 > **Seven primitive data types:**
 
@@ -42,7 +43,11 @@
 
 >> **`object` -for more complex data structures.**
 
+</span>
+
 ### **The `typeof` operator allows us to see which type is stored in a variable.**
+
+<span style='color:black'>
 
 > **Usually used as `typeof x`, but `typeof(x)` is also possible.**
 
@@ -50,3 +55,4 @@
 
 > **For null returns 'object' -this is an error in the language, it's not actually an object.**
 
+</span>
