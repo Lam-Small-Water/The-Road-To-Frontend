@@ -45,6 +45,7 @@
 
 </span>
 
+
 ### **The `typeof` operator allows us to see which type is stored in a variable.**
 
 <span style='color:black'>
