@@ -33,11 +33,11 @@
 
 >> **`boolean` -for `true`/`false`.**
 
->> **`null` -for unknow values -a standalone type that has a single value `null`.**
+>> **`null` -for unknown values -a standalone type that has a single value `null`.**
 
 >> **`undefined` -for unassigned values -a standalone type that has a single value `undefined`.**
 
->> **`symbool` -for unique indentifiers.**
+>> **`symbol` -for unique identifiers.**
 
 > **And one non-primitive data type:**
 
